@@ -7,6 +7,7 @@ gem 'rails', '4.2.1'
 
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '3.2.0'
+gem 'bcrypt-ruby', '3.1.2'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
