@@ -60,6 +60,9 @@ group :development, :test do
 
   # Uncomment this line on OS X.
   gem 'growl', '1.0.3'
+
+  gem 'cucumber-rails', '1.4.0', :require => false
+  gem 'database_cleaner', github: 'bmabey/database_cleaner'
 end
 
 group :test do
